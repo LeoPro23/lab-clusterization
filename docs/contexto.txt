@@ -1,0 +1,15 @@
+okey tengo esto:
+WORKSHOP 03. "Definiendo tipo de ML a aplicar"
+ 
+1. Objetivo
+Identificar el tipo de ML que aplicará en su proyecto
+
+Problema General
+ 
+Un estudio realizado por la Organización Panamericana de la Salud, para las Américas indica que los accidentes representan el aspecto más evidente del problema, sin embargo, las enfermedades laborales constituyen el 80% de las muertes relacionadas con el trabajo. Además, se calcula que cada año ocurren existen nueve millones de accidentes y enfermedades laborales no mortales. Por otro lado, indica que estos accidentes y enfermedades son, en su mayoría, prevenibles, siempre que se desarrollen programas de seguridad de manera preventiva (OPS, 2023).
+
+2. Instrucciones:
+a. Definir una problemática orientada a reducir accidentes laborales, identificando las variables respectivas.
+b. Incluya una muestra del dataset de trabajo (incluir link desde donde obtendrá la información).
+c. Determinar el tipo de algoritmo a realizar.
+d. Aplique 2 algoritmos para solucionar el problema.
